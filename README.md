@@ -15,4 +15,7 @@ he dashboard tracks several key performance indicators, including:
 * Procurement: Purchase orders, purchase request, turnover, stock value, supplier engagement..
 * Logistics: Delivery performance, Non-conformity tracking.. 
 * Planning: Planning KPIs are still under development.
-  
+## Usage
+* Load the Data: Ensure the data source is connected properly. You may need to refresh the data connection within Power BI.
+* Explore the Dashboard: Navigate through the different pages to explore various KPIs and metrics related to supply chain performance.
+* Customize: If needed, adjust filters and slicers to view specific data subsets or time periods.
